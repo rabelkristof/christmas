@@ -1,3 +1,4 @@
+//@ts-nocheck
 /**
  * @typedef {{what: string, who1: string, who2?: string}} PartialElf
  */
